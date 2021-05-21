@@ -1,0 +1,12 @@
+{
+  "name": "citycard_origin_dev",
+  "displayName": "citycard_origin_dev",
+  "expo": {
+    "name": "citycard_origin_dev",
+    "slug": "citycard_origin_dev",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
